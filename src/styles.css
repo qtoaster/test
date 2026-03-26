@@ -136,7 +136,7 @@ body {
     transform: scale(0.95);
 }
 
-.random-btn.loading {
+.random-btn.loading svg {
     animation: spin 1s linear infinite;
 }
 
